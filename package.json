@@ -1,16 +1,17 @@
 {
-  "name": "98qwdsa_server",
-  "version": "1.0.1",
+  "name": "@98qwdsa/server",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/98qwdsa/data-server.git"
+    "url": "git+https://github.com/98qwdsa/data-server.git"
   },
-  "author": "chunsen.zhao",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/98qwdsa/data-server/issues"
